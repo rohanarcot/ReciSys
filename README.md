@@ -84,6 +84,11 @@ This project focuses on **rating prediction and representation learning**.
 - NLP models can recover ratings extremely well from language alone
 - The architecture generalizes beyond Food.com to many recommendation domains
 
+- `notebook/ReciSys.ipynb` – full implementation and experiments
+- `slides/ReciSys.pptx` – presentation walkthrough
+- `report/ReciSys_Report.pdf` – written report
+- watch: [video presentation](https://drive.google.com/file/d/1sB3T2pWJ6ie1gXAGiWN3_4TuFSKR4CEf/view?usp=sharing)
+
 
 ## Dataset Citation
 
@@ -97,11 +102,3 @@ EMNLP–IJCNLP, 2019.
 - Dataset: https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
 
 If you use this dataset, please cite the paper above.
-
-
-- `notebook/ReciSys.ipynb` – full implementation and experiments
-- `slides/ReciSys.pptx` – presentation walkthrough
-- `report/ReciSys_Report.pdf` – written report
-- watch: [video presentation](https://drive.google.com/file/d/1sB3T2pWJ6ie1gXAGiWN3_4TuFSKR4CEf/view?usp=sharing)
-
-
